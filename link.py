@@ -3,7 +3,7 @@ import ssl
 from urllib.parse import urljoin
 from urllib.parse import urlparse
 from urllib.request import urlopen
-from bs4 import BeautifulSoup    
+from bs4 import BeautifulSoup 
 
 
 ctx = ssl.create_default_context()
