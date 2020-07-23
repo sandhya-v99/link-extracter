@@ -11,3 +11,4 @@ In this program, we crawl a website and retrieve specified number of pages. If y
 restart the program again and tell it to crawl more pages, it will not re-crawl any pages
 already in the database. Upon restart it goes to a random non-crawled page and starts
 there. So each successive run of spider.py is additive.
+ 
